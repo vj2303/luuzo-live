@@ -2,7 +2,7 @@
 const Hero = () => {
   return (
     <div className="py-[120px] mt-[100px] bg-[blue]"  style={{
-      backgroundImage: 'url(/aboutBg.png)',
+      // backgroundImage: 'url(/aboutBg.png)',
       backgroundSize: 'cover', // Adjust to cover the entire area
       backgroundPosition: 'center', // Center the image
       height: '50vh', // Full height of the viewport
