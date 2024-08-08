@@ -23,7 +23,7 @@ const AboutLuzo = () => {
 
 
   return (
-    <div className='flex flex-col gap-[17px] mx-[15px] my-[30px]  max-w-[1200px] mx-auto'>
+    <div className='flex flex-col px-3 gap-[17px] mx-[15px] my-[30px]  max-w-[1200px] mx-auto'>
         <h2 className='text-[20px] sm:text-[30px] font-semibold'>About LUZO</h2>
         <div className='flex flex-wrap gap-[5px]'>
                 {
